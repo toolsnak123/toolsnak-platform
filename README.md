@@ -47,7 +47,7 @@ It is ideal for:
 * JSON formatter, Text comparison
 * Code to PDF
 * HTML to PDF
-* SEO optimization utilities
+* Calculators
 
 ---
 
