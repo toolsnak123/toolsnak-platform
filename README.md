@@ -44,7 +44,9 @@ It is ideal for:
 
 ### 🧑‍💻 Developer & SEO Tools
 
-* JSON formatter, meta tag generator
+* JSON formatter, Text comparison
+* Code to PDF
+* HTML to PDF
 * SEO optimization utilities
 
 ---
@@ -85,6 +87,9 @@ It is ideal for:
 * [Split PDF](https://www.toolsnak.com/en/split-pdf)
 * [Compress PDF](https://www.toolsnak.com/en/compress-pdf)
 * [PDF to JPG](https://www.toolsnak.com/en/pdf-to-jpg)
+* [CSV to PDF](https://www.toolsnak.com/en/free-csv-to-pdf-online)
+* [Word to PDF](https://www.toolsnak.com/en/free-word-to-pdf-online)
+* [Excel to PDF](https://www.toolsnak.com/en/free-excel-to-pdf-online)
 * [Image Resizer](https://www.toolsnak.com/en/image-resizer)
 * [JPG to PNG](https://www.toolsnak.com/en/jpg-to-png)
 * [JSON Formatter](https://www.toolsnak.com/en/json-formatter)
