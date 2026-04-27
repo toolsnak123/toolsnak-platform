@@ -1848,3 +1848,5 @@ Stay updated with new tools and features:
 If you find Toolsnak useful, consider giving this repository a ⭐ to support the project and help others discover it.
 [BUY ME Coffee](https://buymeacoffee.com/toolsnak)
 ---
+
+© 2026 [Toolsnak](https://www.toolsnak.com). All rights reserved.
