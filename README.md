@@ -429,4 +429,47 @@ It is ideal for:
 |  | Hindi | [https://toolsnak.com/hi/muft-invoice-maker-hindi-online](https://toolsnak.com/hi/muft-invoice-maker-hindi-online) |
 |  | Portuguese | [https://toolsnak.com/pt/gratis-gerador-de-faturas-online](https://toolsnak.com/pt/gratis-gerador-de-faturas-online) |
 
-<!-- ⚠️ The wireframe was truncated mid-message. If you have tools beyond "Free Invoice Maker", paste their tables below this line. -->
+<!-- ⚠️ If you have tools beyond "Free Invoice Maker", paste their tables ABOVE this line so they appear before the footer sections below. -->
+
+---
+
+## 📱 Connect on Social Media
+
+Follow **Toolsnak** for tool launches, tutorials, and productivity tips:
+
+* **Facebook**: https://www.facebook.com/toolsnak
+* **Twitter / X**: https://twitter.com/toolsnak
+* **LinkedIn**: https://www.linkedin.com/company/toolsnak
+* **Instagram**: https://www.instagram.com/toolsnak
+* **YouTube**: https://www.youtube.com/@toolsnak
+* **Pinterest**: https://www.pinterest.com/toolsnak
+
+---
+
+## 🤝 Support & Help
+
+Got a question, feedback, or a tool idea? We'd love to hear from you.
+
+* **Contact Us**: https://www.toolsnak.com/en/contact
+* **About Toolsnak**: https://www.toolsnak.com/en/about
+* **FAQs**: https://www.toolsnak.com/en/faqs
+* **Suggest a Tool**: https://www.toolsnak.com/en/tools-suggest
+* **Refund Policy**: https://www.toolsnak.com/en/refund
+
+For partnership, advertising, or press enquiries, please reach out via the contact page above.
+
+---
+
+## 📜 Copyright & Legal
+
+© 2026 **Toolsnak**. All rights reserved.
+
+* **Privacy Policy**: https://www.toolsnak.com/en/privacy
+* **Terms of Service**: https://www.toolsnak.com/en/terms
+* **Disclaimer**: https://www.toolsnak.com/en/disclaimer
+
+The Toolsnak name, logo, and original content are the property of Toolsnak. Third-party trademarks (PDF, Word, Excel, JPG, PNG, WebP, etc.) belong to their respective owners and are referenced for descriptive purposes only.
+
+---
+
+_Built with ❤️ for everyone who works with documents, images, and code every day._
